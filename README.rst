@@ -61,3 +61,10 @@ Tentative Schedule -- Spring 2016
 * May 5 -- Watch Lecture 17
 * May 10 -- Watch Lecture 12
 * May 12
+
+Grading
+-------
+
+Grading will be based on your canned projects and your final own final project that you will demo to me during finals.
+
+**If** it becomes apparent to me that you are not watching the videos and keeping up then I will add in a **Quiz** component to the grade, and I will make up quizzes on the lectures.
