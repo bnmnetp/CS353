@@ -36,13 +36,19 @@ Tentative Schedule -- Spring 2016
     * `Swift Quick Start <http://www.raywenderlich.com/115253/swift-2-tutorial-a-quick-start>`_
 
 * Feb 9 -- Watch Lecture 1, Typing in Calculator in class
-    * In class today we will look at some solutions to the anagram detector homework problem I assigned.  Paste your solution into the Slack #homework channel   Use three backticks at the top and bottom of your post so that the code will look like code.
+    * In class today we will look at some solutions to the anagram detector homework problem I assigned.  Paste your solution into the Slack #homework channel   Use three backticks at the top and bottom of your post so that the code will look like code. like this::
+
+        ```
+        func myfunc(a:String, b:String) -> Bool
+            do stuff
+            return something
+        ```
 
     * After looking at and discussing some of the solutions we will work on the first part of the calculator and probably start on the second from the lecture for the 11th.
 
 * Feb 11 -- Watch Lecture 2, Typing in Calculator in class
     * We should be able to finish up the in-class part of the calculator project today.
-    
+
 * Feb 16 -- Watch Lecture 3, Start on Calculator Project
 * Feb 18 -- work on calculator project
 * Feb 23 -- Watch Lecture 4, Start Programming Project 2
