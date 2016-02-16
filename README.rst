@@ -49,10 +49,10 @@ Tentative Schedule -- Spring 2016
 * Feb 11 -- Watch Lecture 2, Typing in Calculator in class
     * We should be able to finish up the in-class part of the calculator project today.
 
-* Feb 16 -- Watch Lecture 3, Start on Calculator Project
-* Feb 18 -- work on calculator project
-* Feb 23 -- Watch Lecture 4, Start Programming Project 2
-* Feb 25
+* Feb 16 -- Watch Lecture 3, Calculator Project Due on Feb 18.
+* Feb 18 -- Watch Lecture 4, Review our simple dice program, Start Programming Project 2
+* Feb 23 -- Work on Project 2, See the First Readings document, read the required sections
+* Feb 25 -- Discuss Questions from the required reading
 * Mar 1 -- Watch Lecture 5
 * Mar 3 -- No Class
 * Mar 8 -- Watch Lecture 6
