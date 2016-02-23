@@ -50,8 +50,12 @@ Tentative Schedule -- Spring 2016
     * We should be able to finish up the in-class part of the calculator project today.
 
 * Feb 16 -- Watch Lecture 3, Calculator Project Due on Feb 18.
-* Feb 18 -- Watch Lecture 4, Review our simple dice program, Start Programming Project 2
-* Feb 23 -- Work on Project 2, See the First Readings document, read the required sections
+* Feb 18 -- Watch Lecture 4, Questions, Start on simple Dice App
+* Feb 23 -- Review Dice App, Questions,
+    * A bit on inheritance using Dice App
+    * Unit Testing
+    * Work on Project 2
+
 * Feb 25 -- Discuss Questions from the required reading
 * Mar 1 -- Watch Lecture 5
 * Mar 3 -- No Class
