@@ -58,14 +58,14 @@ Tentative Schedule -- Spring 2016
 
 * Feb 25 -- Discuss Questions from the required reading
 * Mar 1 -- Watch Lecture 5
-* Mar 3 -- No Class
-* Mar 8 -- Watch Lecture 6
+* Mar 3 -- No Class -- Project 2 Due
+* Mar 8 -- Watch Lecture 6 -- Start Project 3
 * Mar 10 -- Watch Lecture 7
 * Mar 15 -- Watch Lecture 8
-* Mar 17 -- Finish Project 2
+* Mar 17 -- Project 3 Due?
 * Mar 22 -- Spring Break
 * Mar 24 -- Spring Break
-* Apr 5 -- Watch Lecture 9, Start Programming Project 3
+* Apr 5 -- Watch Lecture 9
 * Apr 7  -- Watch Lecture 10
 * Apr 12 -- Watch Lecture 11
 * Apr 14 -- Watch Lecture 12, Start Project 4
