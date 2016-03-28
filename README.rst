@@ -65,6 +65,8 @@ Tentative Schedule -- Spring 2016
 * Mar 17 -- Project 3 Due?
 * Mar 22 -- Spring Break
 * Mar 24 -- Spring Break
+* Mar 29 -- oops  lets do this:  https://thatthinginswift.com/basic-table-view-app-video-swift/
+* Mar 31 -- OK, may need today too.
 * Apr 5 -- Watch Lecture 9
 * Apr 7  -- Watch Lecture 10
 * Apr 12 -- Watch Lecture 11
