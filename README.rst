@@ -73,16 +73,16 @@ Tentative Schedule -- Spring 2016
   
 * Apr 5 -- Watch Lecture 10, Start Project 4
 * Apr 7  -- Watch Lecture 11
-* Apr 12 -- Watch Lecture 11
-* Apr 14 -- Watch Lecture 12,
-* Apr 19 -- Watch Lecture 13
-* Apr 21 -- Watch Lecture 14, Start Project 5
-* Apr 26 -- Watch Lecture 15
-* Apr 28 -- Watch Lecture 16, Start Final Project of own choosing
+* Apr 12 -- Watch Lecture 12 -- Final Project Ideas - email me
+* Apr 14 -- Watch Lecture 13 -- Start Final Project
+* Apr 19 -- Watch Lecture 14
+* Apr 21 -- Watch Lecture 15, Start Project 5
+* Apr 26 -- Watch Lecture 16
+* Apr 28 -- Watch Lecture 17
 * May 3
-* May 5 -- Watch Lecture 17
-* May 10 -- Watch Lecture 12
-* May 12
+* May 5 
+* May 10 -- Demos
+* May 12 -- Demos
 
 Grading
 -------
