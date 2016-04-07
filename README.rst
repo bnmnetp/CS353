@@ -74,7 +74,7 @@ Tentative Schedule -- Spring 2016
 * Apr 5 -- Watch Lecture 10, Start Project 4
 * Apr 7  -- Watch Lecture 11
 * Apr 12 -- Watch Lecture 12 -- Final Project Ideas - email me
-* Apr 14 -- Watch Lecture 13 -- Start Final Project
+* Apr 14 -- Watch Lecture 13 -- Project 4 due, Start Final Project
 * Apr 19 -- Watch Lecture 14
 * Apr 21 -- Watch Lecture 15, Start Project 5
 * Apr 26 -- Watch Lecture 16
